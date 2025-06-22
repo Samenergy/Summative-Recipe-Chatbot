@@ -1,0 +1,10 @@
+2025-06-20T11:13:15.228901 - Non-recipe: What is the weather today?
+2025-06-20T11:13:50.114042 - Non-recipe: How can I get to Kigali?
+2025-06-20T11:25:29.982218 - Non-recipe: hi
+2025-06-20T11:31:19.657258 - Non-recipe: hi
+2025-06-20T13:41:12.498803 - Non-recipe: hi
+2025-06-20T14:13:10.048244 - Non-recipe: what is a mushroom
+2025-06-20T22:42:17.199882 - Non-recipe: what is agriculture
+2025-06-21T21:37:40.078357 - Non-recipe: hi
+2025-06-21T22:16:51.228116 - Non-recipe: Help me plan meals for the week
+2025-06-21T22:22:35.981416 - Non-recipe: who are you

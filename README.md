@@ -11,7 +11,6 @@ A full-stack application for answering recipe-related questions using a fine-tun
 - **Live Demo:** [recipechatbot.vercel.app](https://recipechatbot.vercel.app/)
 - **Dataset:** [HuggingFace recipe.csv](https://huggingface.co/datasets/arya123321/recipes/blob/main/recipe.csv)
 - **Full Report (PDF):** See `Samuel Dushime Recipe QA Chatbot Summative Report.pdf`
-- 
 
 ---
 
